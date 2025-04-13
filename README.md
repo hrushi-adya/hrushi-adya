@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @hrushi-adya
-- 👀 I’m interested in pursuing masters in Big Data Analytics & IT in University of Central Missouri
-- 🌱 I’m currently machine learning, AI, Gen AI, Big Data Engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m a Software professional seeking job opportunity in Backend Development, Cloud Engineering, Software Development, Architecture Designing. 
+- 🌱 I’m skilled with following Programming Languages: Java, Python, Golang, Typescript.
+- 🌱 I'm AWS Certified Solution Architect - Associate with 780/1000 score. 
+- 🌱 I'm experienced with using the follwing Technologies: Jenkins, Apache Spark, Apache Airflow, Sonarqube, OpenAI API's. 
+- 👋 Feel free to reach out to me on my linkedin or at hrushikesh.adya@gmail.com
+- ⚡ Fun fact: I play soccer, badminton, volleyball, cricket, table tennis, pool, snooker, pickleball. 
 
 <!---
 hrushi-adya/hrushi-adya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

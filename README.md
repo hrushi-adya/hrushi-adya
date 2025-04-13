@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hrushi-adya
+- 👋 Hi, I’m Hrushikesh Adya. 
 - 👀 I’m a Software professional seeking job opportunity in Backend Development, Cloud Engineering, Software Development, Architecture Designing. 
 - 🌱 I’m skilled with following Programming Languages: Java, Python, Golang, Typescript.
 - 🌱 I'm AWS Certified Solution Architect - Associate with 780/1000 score. 

@@ -20,7 +20,7 @@
     - Blind 75 Series: https://github.com/hrushi-adya/leetcode-blind75
     - DSA with C Programming Language: 
 * Devops Software:
-    - GitHub Repository Automation
+    - GitHub Ops Automation: https://github.com/hrushi-adya/github-ops-automation
 * Full Stack Application:
     - Movie Ticket Booking System: https://github.com/hrushi-adya/movie-ticket-booking-system/tree/main
 * Machine Learning:

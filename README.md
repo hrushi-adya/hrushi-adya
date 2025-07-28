@@ -15,7 +15,8 @@
 ***
 ***Following list of repositories and projects demonstrates the experties I have built over a period of past 7 years with my academic and professional experience.***
 ***
-
+* CUDA Programming:
+    - CUDA Playground: https://github.com/hrushi-adya/CUDA-Playgroud
 * Data Structures & Algorithms:
     - Blind 75 Series: https://github.com/hrushi-adya/leetcode-blind75
     - DSA with C Programming Language: 
